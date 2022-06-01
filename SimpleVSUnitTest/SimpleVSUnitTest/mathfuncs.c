@@ -1,3 +1,4 @@
+
 #include "mathfuncs.h"
 
 double square(double n)
@@ -9,3 +10,4 @@ double cube(double n)
 {
 	return n * n * n;
 }
+

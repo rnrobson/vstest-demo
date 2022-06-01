@@ -1,0 +1,2 @@
+C:\Users\user2\Documents\vstest-demo\vstest-demo\SimpleVSUnitTest\Debug\UnitTest1.dll.lastcodeanalysissucceeded
+C:\Users\user2\Documents\vstest-demo\vstest-demo\SimpleVSUnitTest\UnitTest1\Debug\NativeCodeAnalysis.read.1.tlog
