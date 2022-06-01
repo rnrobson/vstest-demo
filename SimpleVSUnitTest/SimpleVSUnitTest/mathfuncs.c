@@ -1,4 +1,3 @@
-
 #include "mathfuncs.h"
 
 double square(double n)

@@ -20,3 +20,4 @@
 *.sarif
 *.dll.recipe
 *.VC.opendb
+.suo
