@@ -10,4 +10,3 @@ double cube(double n)
 {
 	return n * n * n;
 }
-
