@@ -2,7 +2,7 @@
 
 double square(double n)
 {
-	return n * n * 2;
+	return n * n;
 }
 
 double cube(double n)
